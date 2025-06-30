@@ -1,15 +1,11 @@
-market.dev is a marketplace and platfrom for developers to launch & grow a business alongside an open source project. 
+market.dev is an open source platform to manage everything from your landing page to payments - the sales and marketing stack built for freelance developers. 
 
 You can use it at [**https://www.market.dev**](https://www.market.dev). 
 
-With market.dev, you can quickly discover the best of open source ecosystems. 
-
-As a seller, you can:
-1.  Set up a commercial offering tied to a GitHub project, like paid support, consulting or training.
-2.  Promote your commercial services with customizable landing Pages & embeds.
-3.  Understand how people are using your open source, using new research and analytics tools.
-4.  Manage & grow your customer base with built-in CRM , reporting and contract management.
-
-We believe serious open source teams need new tools - to help them build strong businesses and ecosystems around their projects. We believe in bringing together maintainers and the companies that depend on their software in new ways. 
-
-If you're interested in what we're building, join our [**Discord**](https://discord.gg/ZdSpS4BuGd), or find us on X as [**@marketdotdev**](https://x.com/marketdotdev).
+Features:
+- Setup templated landing pages 
+- Set up professional service packages like paid support, consulting or training with built-in contracts
+- Light CRM with integrated leadgen forms
+- Handle one time and recurring payments
+- Promote via embeds, checkout links
+- Business analytics and reporting
